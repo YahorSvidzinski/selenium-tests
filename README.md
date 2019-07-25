@@ -1,7 +1,7 @@
 ### Selenium + TestNG tests
 
 > **https://www.farfetch.com/ is used for testing**
-###Prerequisites
+### Prerequisites
 
 * Oracle JDK 1.8
 * Maven
