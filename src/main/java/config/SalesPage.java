@@ -3,7 +3,7 @@ package config;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class SalesPage extends BaseClassAllPages{
+public class SalesPage extends BaseClassAllPages {
 
     private By salesButton = By.partialLinkText("Распродажа");
     private By balenciagaSpeed = By.cssSelector("#slice-container > div:nth-child(3) > div > div._b732a8 > div > div._4ba192 > ul > li:nth-child(16) > a > div._7e8db3 > img");

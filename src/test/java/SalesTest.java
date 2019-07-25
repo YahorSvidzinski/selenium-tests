@@ -23,7 +23,7 @@ public class SalesTest {
     public void isBalenciagaOnSale() {
         salesPage.navigateToSales();
         salesPage.navigateToBrandNewBalenciaga();
-        assertEquals("506344W05G0",salesPage.getDesignerArticle());
+        assertEquals("506344W05G0", salesPage.getDesignerArticle());
     }
 
     @AfterClass

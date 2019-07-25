@@ -24,7 +24,7 @@ public class SearchTest {
         searchPage.navigateToSearchButton();
         searchPage.sendSearchRequest("Heron Preston");
         searchPage.navigateToHeronPrestonClothes();
-        Assert.assertEquals("HERON PRESTON",searchPage.getHeronPrestonTitle());
+        Assert.assertEquals("HERON PRESTON", searchPage.getHeronPrestonTitle());
     }
 
     @AfterClass

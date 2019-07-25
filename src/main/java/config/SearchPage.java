@@ -3,7 +3,7 @@ package config;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class SearchPage extends BaseClassAllPages{
+public class SearchPage extends BaseClassAllPages {
 
     private By searchButton = By.cssSelector("#header-top > div > div.headerTop__container__Hambnsearch > a.js-search-trigger.ff-search-trigger > span > svg");
     private By searchWindow = By.cssSelector("#ff-search-input");

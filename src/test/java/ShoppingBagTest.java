@@ -21,7 +21,7 @@ public class ShoppingBagTest {
     @Test
     public void isShoppingBagEmpty() {
         shoppingBagPage.navigateToShoppingBag();
-        Assert.assertEquals("ВАША КОРЗИНА ПУСТА",shoppingBagPage.getShoppingBagInfo());
+        Assert.assertEquals("ВАША КОРЗИНА ПУСТА", shoppingBagPage.getShoppingBagInfo());
     }
 
     @AfterClass
