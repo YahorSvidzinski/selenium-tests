@@ -7,7 +7,7 @@
 * Maven
 * Chrome Browser (any version)
 
-####To run tests 
+#### To run tests 
 
 ```bash
 mvn clean test
