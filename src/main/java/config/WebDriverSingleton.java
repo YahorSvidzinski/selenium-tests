@@ -34,5 +34,5 @@ public class WebDriverSingleton {
         }
         return instance;
     }
-    
+
 }
