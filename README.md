@@ -1,13 +1,13 @@
 ### Selenium + TestNG tests
 
 > **https://www.farfetch.com/ is used for testing**
-###Prerequisites
+### Prerequisites
 
 * Oracle JDK 1.8
 * Maven
 * Chrome Browser (any version)
 
-####To run tests 
+#### To run tests 
 
 ```bash
 mvn clean test
