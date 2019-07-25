@@ -6,7 +6,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.io.File;
-import java.net.MalformedURLException;
 
 public class WebDriverSingleton {
 
@@ -35,4 +34,5 @@ public class WebDriverSingleton {
         }
         return instance;
     }
+    
 }

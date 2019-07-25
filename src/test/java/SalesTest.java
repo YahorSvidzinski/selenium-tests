@@ -30,4 +30,5 @@ public class SalesTest {
     public void finishCompletely() {
         driver.quit();
     }
+
 }

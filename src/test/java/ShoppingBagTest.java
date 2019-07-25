@@ -28,4 +28,5 @@ public class ShoppingBagTest {
     public void finishCompletely() {
         driver.quit();
     }
+
 }

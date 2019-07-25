@@ -24,4 +24,5 @@ public class SalesPage extends BaseClassAllPages {
     public String getDesignerArticle() {
         return driver.findElement(designerArticle).getText();
     }
+
 }

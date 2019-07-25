@@ -29,4 +29,5 @@ public class SearchPage extends BaseClassAllPages {
     public String getHeronPrestonTitle() {
         return driver.findElement(heronPrestonTitle).getText();
     }
+
 }

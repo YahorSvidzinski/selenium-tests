@@ -19,4 +19,5 @@ public class ShoppingBagPage extends BaseClassAllPages {
     public String getShoppingBagInfo() {
         return driver.findElement(shoppingBagInfo).getText();
     }
+
 }
